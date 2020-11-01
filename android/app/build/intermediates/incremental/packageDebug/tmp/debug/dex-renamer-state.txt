@@ -1,0 +1,4 @@
+#Tue Oct 06 20:44:41 TRT 2020
+base.0=/Users/tuner/wa_ReactNative/Projeler/GitHubdanIdirilenler/clarusway_rn_1/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
